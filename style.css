@@ -37,7 +37,7 @@ body {
 .image {
   display: block;
   max-width: 520px;
-  opacity: 0.55;
+  opacity: 0.5;
   border-radius: 0 0.75rem 0.75rem 0;
 }
 

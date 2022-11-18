@@ -2,8 +2,8 @@
 
 ### Links
 
-- Solution URL: [repo]()
-- Live Site URL: [github pages]()
+- Solution URL: [repo](https://github.com/lukejans/stats-preview-card-component)
+- Live Site URL: [github pages](https://lukejans.github.io/stats-preview-card-component/)
 
 ## Author
 
